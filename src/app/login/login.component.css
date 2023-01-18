@@ -1,0 +1,12 @@
+.login{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20220510/pngtree-hand-drawn-vegetables-vegetable-garden-image_1328195.jpg');
+    height: 100%;
+    width: 100vw;
+    object-fit:fill;
+    background-size: contain;
+    /* background-repeat: no-repeat; */
+}
+.form-outline .form-control.form-control-lg {
+    font-size: 1rem;
+    line-height: 4.15 !important;
+}
